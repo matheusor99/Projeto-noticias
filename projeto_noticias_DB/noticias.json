@@ -1,0 +1,17 @@
+[
+    {
+        "id_noticia": 1,
+        "titulo": "titulo da noticia",
+        "noticia": "conteudo da noticia"
+    },
+    {
+        "id_noticia": 2,
+        "titulo": "titulo da noticia 2",
+        "noticia": "conteudo da noticia 2"
+    },
+    {
+        "id_noticia": 3,
+        "titulo": "titulo da noticia 3",
+        "noticia": "conteudo da noticia 3"
+    }
+]
